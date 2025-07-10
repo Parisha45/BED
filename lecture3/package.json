@@ -1,0 +1,22 @@
+{
+  "name": "bed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parisha45/BED.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Parisha45/BED/issues"
+  },
+  "homepage": "https://github.com/Parisha45/BED#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
